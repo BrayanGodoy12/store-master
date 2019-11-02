@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PlastyClay</string>
+    <string name="title_activity_home">Categorias</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PlastiClay</string>
+    <string name="nav_header_subtitle">plasticlay.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Opciones</string>
+
+    <!--    buttons-->
+    <string name="btn_categories">Categorias</string>
+    <string name="btn_products">Productos</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_car">Carrito</string>
+
+    <!--    flooat buttons-->
+
+
+    <!--    menus-->
+    <string name="item_categories">Categorias</string>
+    <string name="item_products">Productos</string>
+    <string name="item_logout">Logout</string>
+    <string name="item_car">Carrito</string>
+    <string name="item_orders">Pedidos</string>
+    <string name="item_search">Busscar</string>
+
+    <string name="item_settings">Configuracion</string>
+    <string name="item_personal_data">Mis Ajustes</string>
+    <string name="title_activity_login">Iniciar Sesion</string>
+
+
+    <!--    login-->
+
+    <string name="prompt_phone">Telefono</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_phone">This phone is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="title_activity_products">Productos</string>
+
+    <!--    modal car-->
+    <string name="product_amount">Cantidad</string>
+    <string name="modal_title">modal_title</string>
+    <string name="modal_delete">Eliminar</string>
+    <string name="buy">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="amoun_default">1</string>
+    <string name="buy_button">Comprar</string>
+    <string name="title_activity_car">Carrito</string>
+    <string name="title_activity_pay">Pagar</string>
+    <string name="title_activity_orders">Pedidos</string>
+    <string name="title_activity_user">Configuracion</string>
+</resources>
